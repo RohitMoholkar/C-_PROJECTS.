@@ -1,0 +1,5 @@
+Ironman Technology 450000
+Batman Vigilance 500000
+Aquaman Ocean 75000
+Superman Strength 175000
+Spiderman Agility 300000
