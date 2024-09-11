@@ -1,2 +1,1 @@
-# C-_PROJECTS.
-This repository features practical C++ programming projects. 
+## In this repository, I have included C++ programming projects.
