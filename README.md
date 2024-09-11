@@ -1,8 +1,11 @@
 ## In this repository, I have included C++ programming projects.
 
+
 ### Project Description. 
 
+
 This project focuses on backend programming the functionality of an Automated Teller Machine (ATM). It incorporates user authentication, banking operations, transaction history tracking, and data persistence, providing a real-world simulation of ATM processes. Below is a detailed breakdown of the project: 
+
 
 - Project Name: **HIGH-FUNCTION ATM MANAGEMENT SYSTEM USING C++.**
 - User Authentication: Secure login system where users must enter a valid ID and password. Credentials are validated against stored data to ensure only authorized access to individual accounts.
